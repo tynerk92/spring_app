@@ -1,0 +1,5 @@
+Environment Setup Documentation
+
+1. Copy <workspace>/properties/conf/jdbc-connection.properties to a new file named "my-jdbc-connection.properties"
+2. File > Import (search 'preferences')
+	- Import All -> <workspace>/properties/eclipse/properties.epf
